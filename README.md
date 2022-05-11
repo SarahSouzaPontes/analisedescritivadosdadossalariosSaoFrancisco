@@ -1,0 +1,2 @@
+# analisedescritivadosdadossalariosSaoFrancisco
+Análise Descritiva Python Banco Salários São Francisco
